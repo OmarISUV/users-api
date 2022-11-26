@@ -1,0 +1,49 @@
+[
+  {
+    "_id": "624fff06-ae60-4812-b472-b1cc781ca847",
+    "colId": "history",
+    "containerId": "",
+    "name": "{{host}}/user",
+    "url": "{{host}}/user",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-11-25T17:27:04.634Z",
+    "modified": "2022-11-25T17:27:04.634Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\": \"Omar\",\n  \"email\":\"prueba@gmail.com\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "b1f12e47-9905-4ce4-a267-f2445c2eae8a",
+    "colId": "history",
+    "containerId": "",
+    "name": "{{host}}/user/1",
+    "url": "{{host}}/user/1",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-11-25T17:29:51.713Z",
+    "modified": "2022-11-25T17:29:51.713Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "433f2ff1-a903-47bd-a00b-cdee2e4b3215",
+    "colId": "history",
+    "containerId": "",
+    "name": "{{host}}/user",
+    "url": "{{host}}/user",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-11-25T17:47:01.204Z",
+    "modified": "2022-11-25T17:47:01.204Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
